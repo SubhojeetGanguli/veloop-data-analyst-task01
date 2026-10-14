@@ -1,0 +1,7 @@
+# Source data contains fictional names and emails - keep it out of the public repo
+VELoop_Rewards_Data_01.xlsx
+# OS / editor files
+.DS_Store
+Thumbs.db
+~$*
+.vscode/
