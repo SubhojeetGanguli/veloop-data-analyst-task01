@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33484291/README.md)
 # VELOOP Rewards - Product Analytics, Data Readiness & Data Management Blueprint
 
 Data Analyst Internship, Task 01 | Version 0.2 | Author: Subhojeet Ganguli
