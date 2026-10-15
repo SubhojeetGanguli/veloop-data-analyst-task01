@@ -10,7 +10,7 @@ VELOOP Rewards is a developing rewards and engagement product without production
 
 ## Live dashboard
 
-- Live: **[ADD LIVE LINK HERE]**
+- Live:(https://vercel.com/new/subhojeet-ganguli/success?auto-redirect=true&developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=veloop-data-analyst-task01-tyer-2x8j034zh-subhojeet-ganguli.vercel.app&projectName=veloop-data-analyst-task01-tyer&s=https%3A%2F%2Fgithub.com%2FSubhojeetGanguli%2Fveloop-data-analyst-task01&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1&flow-id=jigji5_7FvrmL34e63i-I&teamSlug=subhojeet-ganguli)
 - Local: open [`index.html`](index.html) in any browser. It is fully self-contained (the chart library is embedded), so it also works offline.
 
 A working, filterable User Analytics dashboard computed from the simulated Users dataset (1,000 records): 4 filters, 7 KPI tiles, 7 charts and an insights panel. It covers the user-level view only; the other six dashboards in the blueprint are specified but not built, because the supplied data contains only the Users sheet.
